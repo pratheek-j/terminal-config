@@ -1,7 +1,7 @@
 # terminal-config
 personal terminal config
 
-Kitty 
+Kitty + itty
 https://sw.kovidgoyal.net/kitty
 
 Alacritty
